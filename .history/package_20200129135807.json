@@ -1,0 +1,14 @@
+{
+  "name": "fortheloveofgoats",
+  "version": "0.0.1",
+  "description": "Goats! For the Love of Goats, here's a placeholder image service - serving goats!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijit Chatterjee",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
